@@ -102,7 +102,8 @@ libscrypt_static \
 libmpeg2dec \
 libyuv_static \
 libcrypto% \
-libgui
+libgui \
+libjni_gallery_filters
 
 # Set DISABLE_POLLY based on arch
 DISABLE_POLLY := \
